@@ -1,7 +1,7 @@
 package main
 
 import(
-	"github.com/leontas-9/prueba1-go"
+	"github.com/Leontas-9/saludar-go"
 )
 
 
