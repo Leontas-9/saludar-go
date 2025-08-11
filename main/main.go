@@ -6,5 +6,5 @@ import(
 
 
 func main() {
-	Saludar()
+	saludo.Saludar()
 }
