@@ -8,5 +8,5 @@ import (
 
 func main() {
 	saludo.Saludar()
-	fmt.Print("hola x2")
+	fmt.Print("hola x3")
 }
